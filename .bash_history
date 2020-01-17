@@ -69,3 +69,561 @@ fish
 gf --verbose=3
 ll
 fish
+pwd
+ps -u martin
+ps -u martin|grep fis
+fish
+fish
+stat .gitconfig
+mkdir old-dotfiles--ph--14.04
+fish
+ss --listening 
+fish
+vagrant status
+vagrant status 
+cd /mnt/sshomo/w/
+cd vagrant_getting_started/
+vagrant status 
+vagrant box list 
+fish
+fish
+df
+ll .ssh
+ls -ld .ssh
+fish
+history 
+ls -ld .ssh
+ll .ssh
+fish
+fish
+df
+fish
+history 
+/usr/bin/sudo -i  /usr/bin/apt-get  install gparted
+/usr/bin/sudo -i  /usr/bin/apt-get  install luckybackup
+/usr/bin/sudo -i  /usr/bin/apt-get  install qshutdown 
+fish
+fish
+history |grep fstab
+fish
+ll
+fish
+df
+du -sm *
+du -sm .*
+fish
+fish
+pwd
+fish
+fish
+df
+fish
+du
+wc -l all.nl
+fish
+ccd
+fish
+du -m |sort -n
+df
+df -m
+du -m |sort -n
+fish
+fish
+history |grep hist
+history >~/Dropbox/14.04/a,j4.bash_history.sh
+cat ~/Dropbox/14.04/a,j4.bash_history.sh
+history >~/Dropbox/14.04/a,j4.bash_history.sh
+fish
+df
+fish
+mc -b
+fish
+df -m
+fish
+fish
+df -m
+fish
+df -m
+fish
+OA
+fish
+df -m
+fish
+sha256sum -c SHA256SUMS
+sha256sum -c 16SHA256SUMS
+sha256sum -c 15SHA256SUMS
+sha256sum -c 16SHA256SUMS
+sha256sum -c 15SHA256SUMS
+sha256sum -c SHA256SUMS
+fish
+fish
+ll
+fish
+ll
+fish
+df -m
+vmstat 1
+fish
+/usr/bin/google-chrome-stable 
+mc
+/usr/bin/google-chrome-stable &
+echo /usr/bin/firefox --profile /home/write/otherffo/  --new-instance   &
+fish
+/usr/bin/firefox --profile /home/write/otherffo/  --new-instance   &
+fish
+echo /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+history >~/Dropbox/14.04/a,j5.bash_history.sh
+history -a 
+/usr/bin/google-chrome-stable &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-jslinux-chr/   &
+fish
+history -a 
+du -ak >duak
+grep -w '.*sh' duak
+history >~/Dropbox/14.04/a,j5.bash_history.sh
+fish
+/usr/bin/google-chrome-stable &
+fish
+grep mydata *
+fish
+/usr/bin/google-chrome-stable &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   &
+history >~/Dropbox/14.04/a,j5.bash_history.sh
+history -a 
+/usr/bin/google-chrome-stable &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-martin.init-chr/   &
+history -a 
+history >~/Dropbox/14.04/a,j5.bash_history.sh
+B
+echo /usr/bin/google-chrome-stable --verbose    &
+history -a 
+history >~/Dropbox/14.04/a,j6.bash_history.sh
+fish
+/usr/bin/google-chrome-stable --verbose    &
+fish
+/usr/bin/google-chrome-stable --verbose    &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+history -a 
+echo cut -d - -f 2 echo 
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+mc -b
+fish
+ll ~/.mozilla/firefox/e9iszyxh.default/
+fish
+ll >../ssh.ll
+fish
+ssh martin@192.168.56.101
+history -a 
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+fish
+/usr/bin/firefox --profile /home/write/otherffo/  --new-instance   &
+df -m
+mc
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+history -a
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+#fdlk/usr/bin/sudo -i  /usr/bin/apt-get  install luckybackup
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo
+history -a
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+#fdlk/usr/bin/sudo -i  /usr/bin/apt-get  install luckybackup
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/ljuba-chr/   &
+history -a
+df -m
+(printf "PERM LINKS OWNER GROUP SIZE MONTH DAY " ;            printf "HH:MM/YEAR NAME\n" ;            ls -l | sed 1d) | column -t
+(printf "PERM LINKS OWNER GROUP SIZE MONTH DAY " ;            printf "HH:MM/YEAR NAME\n" ;            ls -l | sed 1d) | column -t|tr ' ' .
+df -m
+fish
+/usr/bin/firefox --profile /home/write/otherffo/  --new-instance   &
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-jslinux-chr/   &
+fish
+df -m
+df -m
+fish
+df -m
+fish
+mc
+fish
+df -m
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+cd ~/apps/openrefine-2.8/ ; ./refine -p 3333 -v trace -d ~/Documents/openrefine &
+history -a 
+du -sm *
+du -sm * |sort -n
+du -sk * |sort -n
+df -m
+fish
+sshfs # martin@127.0.0.1: ~/mnt/ -p 2223
+history -a 
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2223
+history -a 
+df -m
+ssh # -p 2223 martin@127.0.0.1
+history -a 
+ssh  -p 2223 martin@127.0.0.1
+fusermount -u -v
+fusermount -u --help
+fusermount -u
+fish
+fusermount -u ~/mnt
+fusermount -z ~/mnt
+fusermount -zu ~/mnt
+history -a 
+history |grep hist
+history >~/Dropbox/14.04/a,jb.bash_history.sh
+history -a
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-jslinux-chr/   &
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+mc
+fish
+pwd
+du -am|sort -n
+history 
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2223
+ssh  -p 2223 martin@127.0.0.1
+fusermount -zu ~/mnt
+history 
+history -a
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2224
+ssh  -p 2224 martin@127.0.0.1
+ssh  -p 2225 martin@127.0.0.1
+history -a
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+history -a
+ranger
+#git clone https://github.com/martin12333/sbase.wasm.git
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo
+history 
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a take asi artemio a actes@gih 
+history -a
+echo /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+echo /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+history -a
+echo /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+history -a
+ranger
+history 
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+ssh  -p 2225 martin@127.0.0.1
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+ssh  -p 2225 martin@127.0.0.1
+#ssh  -p 2225      -L 8888:localhost:8888         martin@127.0.0.1
+history -a
+./version-check.sh
+#ssh  -p 2225      -L 8888:localhost:8888         martin@127.0.0.1
+history 
+ssh  -p 2225      -L 8888:localhost:8888         martin@127.0.0.1
+history 
+history -a
+echo ssh  -p 2225 clfs@127.0.0.1
+history -a
+ssh  -p 2225 martin@127.0.0.1
+df -m
+man cp
+mc
+dropbox status
+fish
+dropbox start
+df -m
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+mc
+fusermount -zu ~/mnt
+mc
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+mc
+dropbox start
+mc
+cd mnt
+mkdir martin@sdb3a45g:~$ mc
+martin@sdb3a45g:~$ dropbox status
+Dropbox isn't running!
+martin@sdb3a45g:~$ fish
+Welcome to fish, the friendly interactive shell
+Type help for instructions on how to use fish
+martin@sdb3a45g ~> history |tac|grep Dropbox/
+Dropbox/00-ockov_kal_2015.pdf                                                             Dropbox/df-m,j4t                                                 Dropbox/history-fis,i4a                                                    Dropbox/moved-fish_history-fish-history-ubu1404--12--git,j4.sh          
+Dropbox/00.m3u                                                                            Dropbox/df-m,j5                                                  Dropbox/history-fis,i4am                                                   Dropbox/MYNOTES,i.txt/                                                  
+Dropbox/14.04/                                                                            Dropbox/df-m,j7                                                  Dropbox/history-fis,i4an                                                   Dropbox/pharmacyplus.cz/                                                
+Dropbox/15.10/                                                                            Dropbox/df-m,j8                                                  Dropbox/history-fis,i4b0                                                   Dropbox/pkg-manager-no-autoupdate-master/                               
+Dropbox/16.04-v-serv/                                                                     Dropbox/df-m,j9                                                  Dropbox/history-fis,i4b1                                                   Dropbox/pkg-SECU,i4/                                                    
+Dropbox/18.04.2/                                                                          Dropbox/df-m,ja                                                  Dropbox/history-fis,i4b2                                                   Dropbox/pokus.hist                                                      
+Dropbox/18.04/                                                                            Dropbox/df-m,jb                                                  Dropbox/history-fis,i4d                                                    Dropbox/potravinynapranyri.cz/                                          
+Dropbox/182liveserv/                                                                      Dropbox/df-m-16,j5                                               Dropbox/history-fis,i4e                                                    Dropbox/proklete-sory-find,i39/                                         
+Dropbox/2014-10-01-163802\ POZOR\ ORIG.jpg                                                Dropbox/DIIGO/                                                   Dropbox/history-fis,i4i                                                    Dropbox/protein-amino,i4/                                               
+Dropbox/20160401_193908.jpg                                                               Dropbox/dis-2016/                                                Dropbox/history-fis,i5                                                     Dropbox/qubes-ULOVIL/                                                   
+Dropbox/20190322_222138.jpg                                                               Dropbox/dit-2015/                                                Dropbox/history-fis,i6                                                     Dropbox/renamed-fish_history-fish-history-ubu1404--12,j4.sh             
+Dropbox/20190718_174117.jpg                                                               Dropbox/dot.config/                                              Dropbox/history-fis,i7                                                     Dropbox/renamed-fish_history-fish-history-ubu1404--12,j4.txt            
+Dropbox/20140322332\(2\)\ POZOR\ ORIG.jpg                                                 Dropbox/dot.gkrellm2/                                            Dropbox/history-fis,i8                                                     Dropbox/ro-v/                                                           
+Dropbox/A\ data\ cleaner\'s\ cookbook\ -\ About.html                                      Dropbox/dot.workrave/                                            Dropbox/history-fis,i9                                                     Dropbox/root-gparted/                                                   
+Dropbox/a.config/                                                                         Dropbox/dotfiles-15.10-gold/                                     Dropbox/history-fis,i49                                                    Dropbox/root-vyber-deentfs,i4b0/                                        
+Dropbox/a.dropbox.cache/                                                                  Dropbox/dr-4-martin/                                             Dropbox/history-fis,ia                                                     Dropbox/root-vyber-deentfs,i45/                                         
+Dropbox/a.sh                                                                              Dropbox/dr-vibo-sf/                                              Dropbox/history-fis,ib                                                     Dropbox/root-vyber16-03-kopi/                                           
+Dropbox/a.vcf/                                                                            Dropbox/Dr1/                                                     Dropbox/history-fis-fyz16,ic                                               Dropbox/root.bash_history                                               
+Dropbox/aalegal.f8/                                                                       Dropbox/dream-sh-multiline/                                      Dropbox/history-fis-ubu1404,i9                                             Dropbox/s18/                                                            
+Dropbox/afera,j5b-silent-hdd/                                                             Dropbox/dream-sh-opt-lang/                                       Dropbox/history-fis-ubu1404,i9\ \(xu16\'s\ conflicted\ copy\ 2018-10-05\)  Dropbox/ScrapBook/                                                      
+Dropbox/Android\ Emulator/                                                                Dropbox/DrGoog-old/                                              Dropbox/history-fis-ubu1404,ia                                             Dropbox/Screenshot\ -\ 31.3.2014\ -\ 16-18-26.png                       
+Dropbox/android.log/                                                                      Dropbox/dropbox.com/                                             Dropbox/history-fis-ubu1404,ia.txt                                         Dropbox/sda3/                                                           
+Dropbox/android/                                                                          Dropbox/DSCN7833_.jpg                                            Dropbox/history-fis-ubu1404--1,ia.txt                                      Dropbox/sda7-u14-20/                                                    
+Dropbox/antide-or-all-blacklist/                                                          Dropbox/duak,i6n                                                 Dropbox/history-fis-ubu1404--2,ia.txt                                      Dropbox/Sent\ files/                                                    
+Dropbox/antidtxt/                                                                         Dropbox/Eda/                                                     Dropbox/history-fis-ubu1404--12,ia.txt                                     Dropbox/sfdisk--dump--no-act_sda,icu                                    
+Dropbox/apt/                                                                              Dropbox/error-110/                                               Dropbox/history-fis-ubu1404--12,ib.txt                                     Dropbox/sfdisk--list--verify--no-act                                    
+Dropbox/BACKUP/                                                                           Dropbox/etc-fyz-16,i/                                            Dropbox/history-fis-ubu1404--12,ic.txt                                     Dropbox/sfdisk--list--verify--no-act,j4j                                
+Dropbox/bash-history                                                                      Dropbox/etc-fyz-16-00/                                           Dropbox/history-fis-ubu1404--12,j1.txt                                     Dropbox/sfdisk/                                                         
+Dropbox/BEZP/                                                                             Dropbox/etc-fyz-16-99/                                           Dropbox/history-fis-ubu1404--12,j2.txt                                     Dropbox/spectrum\ spek/                                                 
+Dropbox/Big\ Five\ personality\ traits,\ also\ known\ as\ the\ five\ factor\ model\ FFM/  Dropbox/etc-lvm-backup-LVMVolGroup                               Dropbox/history-fis-ubu1404--12,j3.txt                                     Dropbox/ssdlin404/                                                      
+Dropbox/Bok-Milan.jpg                                                                     Dropbox/etc-lvm-backup-LVMVolGroup,j5b                           Dropbox/history-fis-ubu1404--12,j4.txt                                     Dropbox/sslin313/                                                       
+Dropbox/BOOKMARKS-ffox-chr/                                                               Dropbox/etc-prohledl/                                            Dropbox/history-fis-ubu1404--mc,ia.txt                                     Dropbox/U1/                                                             
+Dropbox/borelioza-lyme-Š,j6/                                                              Dropbox/Feeder.opml                                              Dropbox/history-fish-fyz16,j4                                              Dropbox/ubuntu-18.04.1-desktop-amd64.iso.dir/                           
+Dropbox/bspustit/                                                                         Dropbox/feedly.opml                                              Dropbox/history-fish-fyz16,j5.sh                                           Dropbox/ucf-zaloh/                                                      
+Dropbox/cache.cache-sessions/                                                             Dropbox/ffox/                                                    Dropbox/history-sda3,i5                                                    Dropbox/unattended-upgrades,i3f-16-13/                                  
+Dropbox/conffiles-vyber-kopie/                                                            Dropbox/fish/                                                    Dropbox/history-sda3,i9                                                    Dropbox/unnamed.jpg                                                     
+Dropbox/config--virtualbox/                                                               Dropbox/fish_history_cmd,i5                                      Dropbox/history-sda3,i9\ \(sdb3a45g\'s\ conflicted\ copy\ 2018-10-05\)     Dropbox/Updates\ to\ our\ Terms\ of\ Service\ \|\ Pinterest\ Policy.html
+Dropbox/config-autostart/                                                                 Dropbox/from-Milan-to-Jiří/                                      Dropbox/history-sda3,ib                                                    Dropbox/v3live/                                                         
+Dropbox/dconf/                                                                            Dropbox/fstab                                                    Dropbox/history-sda3,ib\ \(xu16\'s\ conflicted\ copy\ 2018-12-26\)         Dropbox/v16-0/                                                          
+Dropbox/default/                                                                          Dropbox/fu                                                       Dropbox/history/                                                           Dropbox/var/                                                            
+Dropbox/df,i5a                                                                            Dropbox/fuj                                                      Dropbox/howtogeek-boot-into-safe-mode-on-windows/                          Dropbox/VirtualBox,i4c/                                                 
+Dropbox/df,i5ag                                                                           Dropbox/fujj                                                     Dropbox/inoj/                                                              Dropbox/VirtualBox,i5g/                                                 
+Dropbox/df,i5g                                                                            Dropbox/Get\ Started\ with\ Dropbox\ Paper.url                   Dropbox/Interactive\ Clinical\ Pharmacology\ -\ Graph\ Plotter/            Dropbox/VirtualBox,i54/                                                 
+Dropbox/df,i98                                                                            Dropbox/Get\ Started\ with\ Dropbox.pdf                          Dropbox/Jiří-aNEW-NEW/                                                     Dropbox/VirtualBox-I3j/                                                 
+Dropbox/df,i982                                                                           Dropbox/GIST,i5/                                                 Dropbox/klíštěte/                                                          Dropbox/VirtualBox-i3L/                                                 
+Dropbox/df,i983                                                                           Dropbox/GIT-EDIT-v-dropb/                                        Dropbox/local/                                                             Dropbox/VirtualBox-i4s-2045-zkravil-vsdc/                               
+Dropbox/df,ia91                                                                           Dropbox/glaucoma\ vision\ examples\ Zelený\ zákal\ \(glaukom\)/  Dropbox/ls-lARU/                                                           Dropbox/VirtualBox1404/                                                 
+Dropbox/df,ia92                                                                           Dropbox/grand\ holidays\ club\ complaints/                       Dropbox/MASTODOn.jpg                                                       Dropbox/vv-vibo-VIBO/                                                   
+Dropbox/df,ia93                                                                           Dropbox/grep\ --no-filename\ -o\ -E\ apos.\{1,80\}fstab.\{,80\}  Dropbox/mb041029.pdf                                                       Dropbox/w/                                                              
+Dropbox/df,ia94                                                                           Dropbox/history-bash,i5                                          Dropbox/mc/                                                                Dropbox/youI/                                                           
+Dropbox/df-m,j4                                                                           Dropbox/history-fis,i4                                           Dropbox/mini-iso/                                                          Dropbox/zbl051.txt.download\ \(1\).png                                  
+martin@sdb3a45g ~> history |tac|grep dropbox
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86" | tar xzf -
+history
+ssh  -p 2225 clfs@127.0.0.1
+history 
+xterm
+history 
+fish
+fusermount -zu ~/mnt
+echo 'DO NOT PASTE INTO XTERM AGAIN ==================  ---------------------------'
+history -a
+fish
+fusermount -zu ~/mnt
+ssh  -p 2225 martin@127.0.0.1
+rm -rf emsdk
+cd ..
+bunzip2 --keep  rh-9-shrike.img.bz2 
+md5 *
+md5sum *
+md5sum *|sort
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+mc
+fusermount -zu ~/mnt
+mc
+dropbox status
+mc
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+mc
+fusermount -zu ~/mnt
+ssh  -p 2225 clfs@127.0.0.1
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+fusermount -zu ~/mnt
+ssh  -p 2225 martin@127.0.0.1
+fish
+history 
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2225
+mc
+fusermount -zu ~/mnt
+0~bunzip2 rh-9-shrike.img.bz2
+mc
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2223
+mc
+ssh  -p 2223 martin@127.0.0.1
+mc
+fusermount -zu ~/mnt
+fish
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2223
+mc
+fusermount -zu ~/mnt
+ssh  -p 2223 martin@127.0.0.1
+gcc -dumpspecs|less
+mc
+ll /lib/libc*
+ll /lib64/libc*
+ll /lib64
+ll /lib
+which libc6
+which -a libc6
+man libc6
+mc
+df
+df -m
+mc
+df -m
+mc
+#sudo apt  install 
+fish
+mc
+martin@sdb3a45g echo '/mnt/bk02/martinwritable/abori$ md5sum *|sort1~'
+df -m
+history -a
+df
+history 
+fish
+mc
+df -m
+fish
+mc
+df -m
+fish
+mc
+blkid -?
+fish
+ssh  -p 2223 martin@127.0.0.1
+lsb-release
+lsb_release
+ssh  -p 2225 martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/ljuba-chr/   &
+fish
+df
+fish
+mc
+fish
+mc
+fish
+mc
+df -
+fish
+mc
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-jslinux-chr/   &
+mc
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-jslinux-chr/   &
+sshfs  martin@127.0.0.1: ~/mnt/ -p 2223
+mc
+fusermount -zu ~/mnt
+mc
+fish
+cd Documents/lenovo/
+FISH
+fish
+cat elevaa-okno-x-du64-ct-v-c-8 | while read a b c d e f g do; echo $g; done |less
+fish
+ssh  -p 2225 martin@127.0.0.1
+fusermount -zu ~/mnt
+ssh  -p 2225 martin@127.0.0.1
+echo ssh  -p 2223 martin@127.0.0.1
+history |grep ssh
+#ssh  -p 2225      -L 8888:localhost:8888         martin@127.0.0.1
+his
+history -a
+fish
+ssh  -p 2225      -L 8888:localhost:8888         martin@127.0.0.1
+ssh  -p 2225      -L 5000:localhost:5000         martin@127.0.0.1
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+history -a
+df -m
+mc
+nl ls*
+wc ls*
+fish
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+echo ssh  -p 22  -L 5000:localhost:5000  -L 8080:localhost:8080       root@192.168.56.2
+history -a
+ssh  -p 22  -L 5000:localhost:5000  -L 8080:localhost:8080       root@192.168.56.2
+history -a
+ssh  -p 2224 martin@127.0.0.1
+ssh  -p 2223 martin@127.0.0.1
+history -a
+fish
+ced
+fish
+file r
+fish
+mc
+fish
+mc
+fish
+mc
+fusermount -zu ~/mnt
+mc
+fish
+mc
+df -m
+fish
+mc
+fish
+mc
+fish
+mc
+help
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+history -a
+ssh  -p 22  -L 5000:localhost:5000  -L 8080:localhost:8080       root@192.168.56.2
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/ljuba-chr/   &
+ssh  -p 2229        root@127.0.0.1
+history -a
+ssh  -p 2229        root@127.0.0.1
+ssh  -p 22  -L 5000:localhost:5000  -L 8080:localhost:8080       root@192.168.56.2
+ssh  -p 2229        root@127.0.0.1
+ssh  -p 22  -L 5000:localhost:5000  -L 8080:localhost:8080       root@192.168.56.2
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+fish
+du -m
+du *
+fish
+setarch --list
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+ssh  -p 2223 martin@127.0.0.1
+ssh  -p 2226 martin@127.0.0.1
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+ll
+du
+mc
+fish
+mc
+fish
+socat
+fish
+fish
+ssh  -p 2225  -L 5000:localhost:5000  -L 8080:localhost:8080       martin@127.0.0.1
+ssh  -p 2225      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+ncat
+fish
+ssh  -p 2227      -L 8888:localhost:8888         martin@127.0.0.1
+history -a
+ssh  -p 2227      -L 8888:localhost:8888         martin@127.0.0.1
+pkill socat
+pkill nc
+history -a
+ssh  -p 2227      -L 8888:localhost:8888         martin@127.0.0.1
+ssh  -p 2225            martin@127.0.0.1
