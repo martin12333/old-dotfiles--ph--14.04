@@ -627,3 +627,22 @@ pkill nc
 history -a
 ssh  -p 2227      -L 8888:localhost:8888         martin@127.0.0.1
 ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2227         martin@127.0.0.1
+ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2226            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/ljuba-chr/   &
+history 
+ssh  -p 2227         martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2225            martin@127.0.0.1
+fish
+ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2226            martin@127.0.0.1
+ssh  -p 2227         martin@127.0.0.1
+history -a
+ssh  -p 22  -L 5000:localhost:5000  -L 8080:localhost:8080       root@192.168.56.2
+ssh  -p 2227         martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+echo ssh  -p 2223 martin@127.0.0.1
+history -a
+OD

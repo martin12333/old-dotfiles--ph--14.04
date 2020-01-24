@@ -131,3 +131,30 @@ cd prase/
 sudo chmod a+r .bash_history 
 mc
 cat .bash_history 
+set
+env
+df
+sudo -i mc
+mc
+apt download busybox-static
+ar x busybox-static_1%3a1.27.2-2ubuntu3.2_i386.deb 
+sudo apt install binutils
+ar x busybox-static_1%3a1.27.2-2ubuntu3.2_i386.deb 
+ll
+xz --keep -d data.tar.xz
+ll
+mc
+ll
+sudo mkdir -p /mnt/ububase
+sudo mount /dev/sdc1  /mnt/ububase/
+cd /mnt/ububase/
+fdrd
+tar tvf ~/data.tar
+sudo mkdir bbox
+cd bbox/
+sudo tar xvf ~/data.tar
+sudo  chroot .
+sudo  chroot . /bin/busybox
+ls
+ls /
+sudo  chroot . /bin/busybox sh
