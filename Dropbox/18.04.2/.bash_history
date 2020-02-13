@@ -169,3 +169,14 @@ cd rh-9/
 qemu-system-i386 rh-9-shrike.img
 ll
 mc
+cd Downloads/
+sudo dpkg -i nomachine_6.9.2_1_amd64.deb
+history -a
+mc
+sudo ls -la /etc/sudoers.d/
+echo "$USER ALL=(ALL:ALL) NOPASSWD: ALL" | sudo tee --append /etc/sudoers.d/$USER
+sudo ls -la /etc/sudoers.d/
+history -a
+mc
+history 
+sudo ls -la /etc/sudoers.d/

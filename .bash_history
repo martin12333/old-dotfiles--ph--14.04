@@ -646,3 +646,60 @@ ssh  -p 2227         martin@127.0.0.1
 echo ssh  -p 2223 martin@127.0.0.1
 history -a
 OD
+ssh  -p 2223 martin@127.0.0.1
+ssh  -p 2226            martin@127.0.0.1
+ssh  -p 2223 martin@127.0.0.1
+/usr/bin/sudo -i  /usr/bin/apt-get  install --download-only mc
+fish
+nmap
+fish
+ls -lR
+ssh  -p 2225            martin@127.0.0.1
+fish
+ssh  -p 2225            martin@127.0.0.1
+ldd busybox
+file *
+ssh  -p 2227         martin@127.0.0.1
+ssh  -p 2225            martin@127.0.0.1
+gunzip --keep ubuntu-bas*
+ls w*
+find -type d -name 'w*'
+find -type d -iname 'w*'
+ssh  -p 2226            martin@127.0.0.1
+ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2226            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+ssh  -p 2226            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2225            martin@127.0.0.1
+fish
+
+df -m 
+vmstat 1
+fish
+sha256sum x*.iso
+df -m
+sha256sum x*.iso
+ssh  -p 2225            martin@127.0.0.1
+bind 
+bind --help
+man bind
+help bind
+fish
+history -a
+mc
+ssh  -p 2225            martin@127.0.0.1
+ls -ld .ssh
+history -a
+fish
+mc
+ls Do
+fish
+zsh
+zsh --version
+curl -Lo install.sh https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+history 
+sh install.sh --unattended
+history 
+zsh
+fish
