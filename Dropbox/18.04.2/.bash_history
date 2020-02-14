@@ -195,3 +195,25 @@ git show
 git status 
 git commit  -a -m 'hist' ;  
 git push -u origin vd182
+git add .config/fish/fish_history
+history 
+git show
+history 
+git status 
+git commit  -a -m 'hist' ;  
+git show
+git status 
+git push -u origin vd182
+git add .gitconfig
+history 
+echo git commit  -a -m 'hist' ;git push -u origin vd182
+git commit  -a -m 'hist' ;  
+git push -u origin vd182
+history -a #----
+git pull origin vd182
+mv -i .bash_history hi2
+git pull origin vd182
+ll
+history 
+history -a #----
+git checkout -b xu1832
