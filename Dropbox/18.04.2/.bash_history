@@ -180,3 +180,18 @@ history -a
 mc
 history 
 sudo ls -la /etc/sudoers.d/
+mc
+git init
+git checkout -b vd182
+git remote add origin https://github.com/actes/branched--newbie-attempts--dotfiles
+git add --verbose --dry-run 
+echo $(cat 
+./git\ ls-files )
+ll git\ ls-files 
+echo $(cat ./git\ ls-files )
+git add --verbose --dry-run $(cat ./git\ ls-files )
+git add --verbose  $(cat ./git\ ls-files )
+git show
+git status 
+git commit  -a -m 'hist' ;  
+git push -u origin vd182

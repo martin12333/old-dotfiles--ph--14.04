@@ -703,3 +703,12 @@ sh install.sh --unattended
 history 
 zsh
 fish
+ssh  -p 2225            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2223            martin@127.0.0.1
+vmstat 1
+ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2223            martin@127.0.0.1
+ssh  -p 2230            martin@127.0.0.1
+history -a #----
