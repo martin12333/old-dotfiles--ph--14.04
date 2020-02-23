@@ -718,3 +718,12 @@ ssh  -p 2230            martin@127.0.0.1
 ssh  -p 2225            martin@127.0.0.1
 /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
 ssh  -p 2223            martin@127.0.0.1
+ssh  -p 2230            martin@127.0.0.1
+ssh  -p 2230            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+df -m
+fish
+ssh  -p 2230            martin@127.0.0.1
+ssh  -p 2231            martin@127.0.0.1
+ssh  -p 2225            martin@127.0.0.1
+ssh  -p 2231            martin@127.0.0.1
