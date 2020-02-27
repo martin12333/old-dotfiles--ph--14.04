@@ -727,3 +727,39 @@ ssh  -p 2230            martin@127.0.0.1
 ssh  -p 2231            martin@127.0.0.1
 ssh  -p 2225            martin@127.0.0.1
 ssh  -p 2231            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+history |grep firef
+/usr/bin/firefox --profile /mnt/bk04/w/ljuba/  --new-instance   &
+mc
+/usr/bin/firefox --profile /mnt/bk04/w/ljuba.ffox/  --new-instance   &
+vmstat 60 &
+vmstat 1
+iotop
+sudo apt-get install iotop
+iostat
+sudo apt-get install sysstat
+iostat 
+iostat --h
+iostat 
+iotop
+sudo iotop
+history -a #----
+pwd
+fish
+history 
+vmstat 1
+man vmstat 
+vmstat 1
+df -m
+vmstat 1
+vmstat 2
+vmstat --h
+iostat -d 10
+iostat -d 10 --h
+iostat -d 1 -m
+mc
+fish
+ssh  -p 2231            martin@127.0.0.1
+ssh            martin@xu1832.local
+fish
+ssh  -p 2231            martin@127.0.0.1
