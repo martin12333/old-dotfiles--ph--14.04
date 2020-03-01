@@ -763,3 +763,13 @@ ssh  -p 2231            martin@127.0.0.1
 ssh            martin@xu1832.local
 fish
 ssh  -p 2231            martin@127.0.0.1
+fish
+ssh martin@xu1832.local
+ssh            martin@xu1832.local
+ssh  -p 2231            martin@127.0.0.1
+fish
+history |tac|grep apt|grep inst
+history |grep apt|grep inst
+fish
+mc
+fish
