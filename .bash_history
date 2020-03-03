@@ -773,3 +773,26 @@ history |grep apt|grep inst
 fish
 mc
 fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+ssh  -p 2231            martin@127.0.0.1
+zsh
+echo 13
+echo 13#4
+echo 13 # 4
+echo 13 3 #4
+echo 13 #4
+echo 1\
+mc
+ssh  -p 2231            martin@127.0.0.1
+fish --ver
+./myargs.sh  1gjhgh  (# 2this 3ighjnjs a comment) 4ghjj  \
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` 6
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6
+fish 
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6 `echo -n` 7
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6 `echo ` 7
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6 `cat 0 ` 7
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6 `cat 1 ` 7
+history |grep apt|grep inst
+history 
