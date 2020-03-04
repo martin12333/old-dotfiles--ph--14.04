@@ -796,3 +796,45 @@ fish
 ./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6 `cat 1 ` 7
 history |grep apt|grep inst
 history 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin  ; lokal=$HOME/Dropbox/vdr2 ; rsync   --dry-run --update   -v  --progress --stats            -h  -r -tgo -p $lokal $remot
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin  ; lokal=$HOME/Dropbox/vdr2 ; echo rsync   --dry-run --update   -v  --progress --stats            -h  -r -tgo -p $lokal $remot
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin  ; lokal=$HOME/Dropbox/vdr2 ; rsync   --dry-run --update   -v  --progress --stats            -h  -r -tgo -p $lokal $remot
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin  ; lokal=$HOME/Dropbox/vdr2 ; rsync   --update   -v  --progress --stats            -h  -r -tgo -p $lokal $remot
+fish 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin  ; lokal=$HOME/Dropbox/vdr2 ; rsync   --update   -v  --progress --stats     --dry-run       -h  -r -tgo -p  $remot $lokal
+
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/vdr2/  ; lokal=$HOME/Dropbox/vdr2/ ; rsync   --update   -v  --progress --stats          -h  -r -tgo -p  $remot $lokal
+mc
+fish 
+history 
+fish 
+history 
+remot=$HOME ; history -a ; lokal=$HOME/Dropbox/14.04 ; rsync      --dry-run     --update   -v    --files-from=$HOME/Dropbox/git...ls-files    --backup --backup-dir=$HOME/Documents/rsync.bak/   --progress --stats      -h  -r -tgo -p  $remot $lokal
+remot=$HOME ; history -a ; lokal=$HOME/Dropbox/14.04 ; echo rsync      --dry-run     --update   -v    --files-from=$HOME/Dropbox/git...ls-files    --backup --backup-dir=$HOME/Documents/rsync.bak/   --progress --stats      -h  -r -tgo -p  $remot $lokal
+remot=$HOME ; history -a ; lokal=$HOME/Dropbox/14.04 ; rsync      --dry-run     --update   -v    --files-from=$HOME/Dropbox/git...ls-files    --backup --backup-dir=$HOME/Documents/rsync.bak/   --progress --stats      -h  -r -tgo -p  $remot $lokal
+remot=$HOME ; history -a ; lokal=$HOME/Dropbox/14.04 ; rsync     `#--dry-run`     --update   -v    --files-from=$HOME/Dropbox/git...ls-files    --backup --backup-dir=$HOME/Documents/rsync.bak/   --progress --stats      -h  -r -tgo -p  $remot $lokal
+ls
+remot=$HOME ; history -a ; lokal=$HOME/Dropbox/14.04 ; rsync     `#--dry-run`     --update   -v    --files-from=$HOME/Dropbox/git...ls-files    --backup --backup-dir=$HOME/Documents/rsync.bak/   --progress --stats      -h  -r -tgo -p  $remot $lokal
+man curl
+history 
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6
+cd Dropbox/vdr20/args-shell-drea/
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 4ghjj  5 `#55` '' 6
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` 35 4ghjj  5 `#55` '' 6
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` `35` 4ghjj  5 `#55` '' 6
+./myargs.sh  1gjhgh  `# 2this 3ighjnjs a comment)` `#35` 4ghjj  5 `#55` '' 6
+fish 
+which ls
+ls --help
+ls --all=2
+mc
+history |grep drea
+fish 
+history |grep cut7
+history |grep cut
+fish 
+mc
+fish
+curl --verbose http://cdimage.ubuntu.com/ubuntu-server/daily/current/focal-server-amd64.iso
+man curl
+fish
