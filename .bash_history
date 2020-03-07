@@ -838,3 +838,35 @@ fish
 curl --verbose http://cdimage.ubuntu.com/ubuntu-server/daily/current/focal-server-amd64.iso
 man curl
 fish
+mc
+ssh            martin@xu1832.local
+mc
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+mc
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/ljuba-chr/   &
+mc
+fish 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/vdr2/  ; lokal=$HOME/Dropbox/vdr2/ ; rsync  `#upd`   -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+ssh            martin@xu1832.local
+ssh  -p 2231            martin@127.0.0.1
+ssh            martin@xu1832.local
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/vdr2/  ; lokal=$HOME/Dropbox/vdr2/ ; rsync  `#upd`   -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/vdr2/  ; lokal=$HOME/Dropbox/vdr2/ ; rsync  `#upd`   -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+ssh            martin@xu1832.local
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; rsync --dry-run  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; echo rsync --dry-run  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo` rsync --dry-run  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo` echo rsync --dry-run  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo` echo rsync --dry-run  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo`  rsync --dry-run  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo`  rsync `#--dry-run`  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo`  rsync `#--dry-run` --dry-run `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo`  rsync `#--dry-run` --no-dry-run `#` --update   -v  --progress --stats          -h  -r -tgo -p   $remot $lokal 
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo` ; rsync `#--dry-run` --dry-run `#` --update   -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+remothost=xu1832.local ;  remot=martin@$remothost:/home/martin/.links2/  ; lokal=$HOME/Dropbox/vdr2/.links2/ ; `#echo` ; rsync `#--dry-run`  `#` --update   -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+tail ~/Dropbox/14.04/a,03.bash_history.sh
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+mkdir tmp
