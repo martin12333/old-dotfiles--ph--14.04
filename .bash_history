@@ -894,3 +894,79 @@ history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
 mc
 fish 
 history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish 
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish 
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+history |grep -- gre
+mc
+fish 
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+fish 
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish 
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish 
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+cd Dropbox/grdr20/PyMartinCA/beta/
+fish
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+fish
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+cd ..
+grep r2 Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2' Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2b5' Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2b7' Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2b8' Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2b6' Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2b4' Kellie\ Evans\ Larger\ than\ Life 
+grep '^r2b9' Kellie\ Evans\ Larger\ than\ Life 
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+fish
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+ssh  -p 2223            martin@127.0.0.1
+fish
+du -am
+port=2231 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+./run
+sh
+bash
+mc
+appletviewer run_mjcell.html 
+cd ..
+appletviewer srs/run_mjcell.html 
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+bash
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+df -m
+ssh  -p 2223            martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh            martin@xu1832.local
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2223            martin@127.0.0.1
+ssh  -p 2223            martin@127.0.0.1
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+ssh  -p 2223            martin@127.0.0.1

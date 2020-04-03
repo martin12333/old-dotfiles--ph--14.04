@@ -2,6 +2,6 @@
 	name = Martin Novy
 	email = martin12333@users.noreply.github.com
 [credential]
-	helper = cache --timeout=9200
+	helper = cache --timeout=900200
 [gui]
 	diffopts = --histogram --word-diff=color
