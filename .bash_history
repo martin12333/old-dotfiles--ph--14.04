@@ -970,3 +970,62 @@ ssh  -p 2223            martin@127.0.0.1
 ssh  -p 2223            martin@127.0.0.1
 port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
 ssh  -p 2223            martin@127.0.0.1
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+pkill golly
+mc
+pkill golly
+mc
+pkill golly
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+mc
+dropbox status
+dropbox start
+fish
+mc
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+df -m
+fish
+echo "FOOBAR" | egrep '\b[A-Z]+\b'
+echo "FOOBAR" | sed --regexp-extended 's/\b[A-Z]+\b/qqqqqqqqqq/g'
+echo " FOOBAR" | sed --regexp-extended 's/\b[A-Z]+\b/qqqqqqqqqq/g'
+echo " FOOBAR" | sed --regexp-extended 's/(^|\b)[A-Z]+\b/qqqqqqqqqq/g'
+echo "FOOBAR" | sed --regexp-extended 's/(^|\b)[A-Z]+\b/qqqqqqqqqq/g'
+echo "FOOBAR" | sed --regexp-extended 's/\b[A-Z]+\b/qqqqqqqqqq/g'
+mc
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+df -m
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
