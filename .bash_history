@@ -1029,3 +1029,70 @@ mc
 fish
 port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
 /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+history |grep -- 888
+echo ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+history -a ; history >~/Dropbox/14.04/a,03.bash_history.sh
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
+ssh  -p 2223            martin@127.0.0.1
+history |grep -- 2223
+fish
+history |grep -- subd
+history |grep -- 2231
+history |grep -- xu18
+history |grep rsy
+history |grep rsy|grep 2231
+fish
+sshport=2223 ;  rsync  --dry-run  --backup --backup-dir=$HOME/Documents/rsync.bak/   -v   -h  -r -tgo -p --update --files-from=$HOME/Dropbox/git...ls-files  --protect-args   -e "ssh -p $sshport" martin@127.0.0.1:/home/martin/  ~/Dropbox/$sshport/
+sshport=2223 ;  rsync  `#--dry-run`  --backup --backup-dir=$HOME/Documents/rsync.bak/   -v   -h  -r -tgo -p --update --files-from=$HOME/Dropbox/git...ls-files  --protect-args   -e "ssh -p $sshport" martin@127.0.0.1:/home/martin/  ~/Dropbox/$sshport/
+fish
+tail   ~/Dropbox/$sshport/.bash_history
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
+history |grep 2223
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+mc
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+mc
+fish
+mc
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+fish
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
+history |less
+history |grep beta|less
+history |grep -i pymar|less
+history |grep -i 2223|less
+history |grep -i grdr|less
+history |grep -i grdr|grep remot
+history |grep -i grdr|grep remot.
+history |grep -i grdr|grep 'remot '
+fish
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+mc
+port=2223 ; subdi=grdr20/PyMartinCA/beta ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Downloads/$subdi  ;  rsync `#--` --dry-run   --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p     $remot $lokal  ###remot lokal
+port=2223 ; subdi=grdr20/PyMartinCA/beta ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Downloads/$subdi  ;  rsync `#--` `#--dry-run`   --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p     $remot $lokal  ###remot lokal
+mkdir "/home/martin/Downloads/grdr20/PyMartinCA/beta"
+mkdir -p "/home/martin/Downloads/grdr20/PyMartinCA/beta"
+port=2223 ; subdi=grdr20/PyMartinCA/beta ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Downloads/$subdi  ;  rsync `#--` --dry-run   --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p     $remot $lokal  ###remot lokal
+port=2223 ; subdi=grdr20/PyMartinCA/beta ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Downloads/$subdi  ;  rsync `#--` `#--dry-run`   --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p     $remot $lokal  ###remot lokal
+mc
+cd Downloads/grdr20/PyMartinCA/beta/beta/LtL--a-as-bool8--204/
+mc
+history -a ; history >~/Dropbox/14.04/a,04.bash_history.sh
