@@ -1277,3 +1277,31 @@ ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
 mc
 cd Dropbox/grdr20/PyMartinCA/beta/JUPYTER/
 history -a ; history >~/Dropbox/14.04/a,06.bash_history.sh
+fish
+history |tac|grep grdr
+history |t|grep grdr
+history |grep grdr
+history -a ; history >~/Dropbox/14.04/a,06.bash_history.sh
+set|grep -i hist
+cd
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync --dry-run  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync --dry-run  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot|grep -i jup
+port=2223 ; subdi=grdr20/ ;  remothost=127.0.0.1  ;   remot=martin@$remothost:/home/martin/$subdi   ; lokal=$HOME/Dropbox/$subdi  ; `#echo` ; rsync `#--dry-run`  `#--` --update   -e "ssh -p $port"    -v  --progress --stats          -h  -r -tgo -p   $lokal $remot
+history -a ; history >~/Dropbox/14.04/a,06.bash_history.sh
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+PYOPENCL_COMPILER_OUTPUT=1
+history -a ; history >~/Dropbox/14.04/a,07.bash_history.sh
+fish
+export PYOPENCL_COMPILER_OUTPUT=1
+history -a ; history >~/Dropbox/14.04/a,07.bash_history.sh
+mc
+export PYOPENCL_COMPILER_OUTPUT=1
+fish
+mc
+history -a ; history >~/Dropbox/14.04/a,07.bash_history.sh
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+export PYOPENCL_COMPILER_OUTPUT=1
+fish
