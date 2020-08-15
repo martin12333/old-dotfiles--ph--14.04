@@ -1305,3 +1305,62 @@ history -a ; history >~/Dropbox/14.04/a,07.bash_history.sh
 ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
 export PYOPENCL_COMPILER_OUTPUT=1
 fish
+./myrsync.sh
+ls .git
+cat .git
+./myrsync.sh
+fish
+ldd golly
+ldd golly >ldd-golly
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+history |grep grdr
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+mc
+fish
+apt show golly
+apt show libwxgtk3.0-dev 
+fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+mc
+fish
+vmstat 2
+dmesg
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+dmesg
+mc
+gnome-disks
+mc
+dmesg
+vmstat 2
+mc
+CD
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+mc
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+echo shi*
+cat shi* >1-4ship.txt
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+apt show golly
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+export LC_ALL=C
+history -a ; history >~/Dropbox/14.04/a,07.bash_history.sh
+fish
+echo /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+ll Downloads/RSYNC/
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+ls -l G*
+pwd
