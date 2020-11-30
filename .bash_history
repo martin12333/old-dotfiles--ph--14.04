@@ -1381,3 +1381,7 @@ ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
 /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
 /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
 fish
+mc
+df -m
+mc
+fish
