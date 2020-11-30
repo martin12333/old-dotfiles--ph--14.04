@@ -5,6 +5,8 @@
 .inputrc
 .gitconfig
 .bashrc
+.zshrc
+0.zshrc
 README.md
 .config/mc/ini
 .config/mc/panels.ini

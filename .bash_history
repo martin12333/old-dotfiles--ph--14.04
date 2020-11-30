@@ -1364,3 +1364,20 @@ fish
 ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
 ls -l G*
 pwd
+mc
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+df -m
+fish
+echo /usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+fish
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+ssh  -p 2223      -L 8889:localhost:8889         martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+ssh  -p 2223      -L 8888:localhost:8888         martin@127.0.0.1
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/chr-other-chr/  &
+fish
