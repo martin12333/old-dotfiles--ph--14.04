@@ -1385,3 +1385,5 @@ mc
 df -m
 mc
 fish
+/usr/bin/google-chrome-stable --verbose   --user-data-dir=/mnt/bk04/w/othermilan-ed-nastav-chr   & echo Edovo a  artemio a actes@gih ale chr-other-chr je jinde
+gzip -d *.gz
